@@ -28,10 +28,8 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error,mean_squared_error
 df=pd.read_csv('/content/student_scores.csv')
 
-#df.head()
 df.head()
 
-#df.tail()
 df.tail()
 
 #Array value of X
